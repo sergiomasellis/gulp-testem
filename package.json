@@ -24,10 +24,10 @@
     "xtend": "*",
     "path": "*",
     "testem": "*",
-    "es6-module-transpiler": "~0.3.6"
+    "es6-module-transpiler": "~0.3.6",
+    "gulp-util": "~2.2.0"
   },
   "devDependencies": {
-    "gulp-util": "~2.2.0"
   },
   "engines": {
     "node": ">=0.8.0",
